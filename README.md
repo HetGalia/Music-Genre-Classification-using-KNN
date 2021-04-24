@@ -2,7 +2,7 @@
 The project uses K-Nearest Neighbor for music genre classification
 
 # Dataset
-The dataset used for training and testing purpose is the GTZAN Audio dataset. It consists of a total of 1000 audio samples pre-classified into 10 main categories, as:-
+The dataset used for training and testing purpose is the [GTZAN](http://marsyas.info/downloads/datasets.html) Audio dataset. It consists of a total of 1000 audio samples pre-classified into 10 main categories, as:-
 1. Blues
 2. Classical
 3. Country
