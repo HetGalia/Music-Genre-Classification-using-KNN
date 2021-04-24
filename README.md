@@ -19,4 +19,7 @@ The size of the dataset is about 1.2 GigaBytes.
 # Jupyter Notebook
 The Project file "KNN.ipynb" is a jupyter notebook originally created on google colab. The colab notebook has a sequence of code cells for defining the KNN functions, train test dataset split and storing the data model in a binary data file. Currently we are able to achieve about 72% accuracy with 5 neighbors. More details and explanations to each function are commented in the notebook itself.
 
-#How to use this Repository-
+# Code Execution:-
+1. Download the zip file -> extract its content -> run jupyter notebook in Anaconda environment or [Google Colab](https://colab.research.google.com/)
+2. Or else run the following code in terminal.
+
