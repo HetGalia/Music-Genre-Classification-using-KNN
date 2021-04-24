@@ -21,5 +21,7 @@ The Project file "KNN.ipynb" is a jupyter notebook originally created on google 
 
 # Code Execution:-
 1. Download the zip file -> extract its content -> run jupyter notebook in Anaconda environment or [Google Colab](https://colab.research.google.com/)
-2. Or else run the following code in terminal.
+2. Or else run the following code in terminal to download the project folder to your system. Or in a colab notebook cell to copy the folder to google drive:-
+``` git clone https://github.com/HetGalia/Music-Genre-Classification-using-KNN.git 
+```
 
